@@ -137,6 +137,7 @@
   * [Plus Mod](valheim/valheim_plus)
 * [VEIN](vein)
 * [Voyagers of Nera](voyagers_of_nera)
+* [Windrose](windrose)
 * [Wreckfest](wreckfest)
 * [Wurm Unlimited](wurm_unlimited/)
 * [Zombie Survival Game Online](zombie_survival_game_online/)
